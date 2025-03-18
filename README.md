@@ -13,3 +13,7 @@
 *MENTER* : NEELA SANTOSH
 
 # DESCRIPTION : Security testing is done by using Burm Suit , In this we can seen how much security of an web application and it is using for check validating and verifying the web application working in a browser, it's take multiple layers to check an web application. When it's open go to task bar and click a proxy and turn off intercept and click open browser open a web application and next turn on intercept and click open browser open same web application in this time not open by clicking forward button in multiples times it can open , by using this how much security of an web application is there we can concluded it. 
+
+# Output :
+
+![Image](https://github.com/user-attachments/assets/66b8e65e-828a-4ccc-aa29-73867144910d)
